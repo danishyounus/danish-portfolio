@@ -4,6 +4,11 @@ A 3D, motion-aware personal portfolio built with Next.js 15, React 19, TypeScrip
 
 Every claim on the site is drawn from `content/` and is verifiable. Repositories, demos, screenshots and social profiles stay hidden until real URLs exist.
 
+**Live:** https://danishyounus.vercel.app
+**Source:** https://github.com/danishyounus/danish-portfolio
+
+Hosted on Vercel. Every push to `main` deploys to production automatically.
+
 ## Local development
 
 ```bash
