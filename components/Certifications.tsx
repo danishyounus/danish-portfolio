@@ -232,7 +232,7 @@ export function Certifications({ availableImages }: { availableImages: string[] 
         <Reveal delay={0.1} className="mt-6">
           <p className="text-[10px] leading-relaxed text-white/25">
             WalkMe credentials carry expiry dates; the status shown is derived from the certificate.
-            Cranes Varsity is coursework, not a certification.
+            Cranes Varsity is a PG Diploma, kept separate from professional certifications.
           </p>
         </Reveal>
       </div>

@@ -49,10 +49,10 @@ export const education: Degree[] = [
 ];
 
 export const additionalLearning = {
-  title: "Data Science with Deep Learning",
+  title: "Applied Data Science with Deep Learning",
   provider: "Cranes Varsity",
-  kind: "Coursework",
+  kind: "PG Diploma",
   modules: ["RDBMS", "Python", "Power BI", "Exploratory Data Analysis"],
   note:
-    "Professional coursework completed alongside the MCA. Not presented as a certification.",
+    "Six-month postgraduate diploma completed after the MCA. Awarded June 2025, graded B+.",
 };

@@ -34,7 +34,7 @@ All copy lives in typed files — no text is hard-coded inside components.
 | `content/experience.ts` | Deloitte role and the three industry engagements |
 | `content/skills.ts` | Three skill tiers and the six anchors |
 | `content/projects.ts` | Seven projects, featured flags, links, screenshots, cover motifs |
-| `content/education.ts` | MCA, BCA and Cranes Varsity coursework |
+| `content/education.ts` | MCA, BCA and the Cranes Varsity PG Diploma |
 | `content/certifications.ts` | Eight credential records across four categories |
 | `content/site.ts` | Site URL, description, keywords and navigation |
 | `content/source/verified-content.md` | Source-of-truth notes for every published fact |
@@ -63,6 +63,7 @@ public/assets/certificates/walkme-dap-advisor.png
 public/assets/certificates/forage-tata-data-visualisation.png
 public/assets/certificates/forage-british-airways-data-science.png
 public/assets/certificates/hp-life-data-science-analytics.png
+public/assets/certificates/cranes-varsity-pg-diploma-data-science.png
 ```
 
 To add project links, edit `content/projects.ts`:

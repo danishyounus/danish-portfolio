@@ -37,9 +37,11 @@ Only facts confirmed by the owner appear here. Nothing is invented.
 
 - Academic areas: DBMS, Python Programming, SQL & RDBMS, Data Analytics,
   Machine Learning, Data Visualization, Business Intelligence.
-- Additional learning: Data Science with Deep Learning coursework, Cranes Varsity
-  (RDBMS, Python, Power BI, Exploratory Data Analysis). Coursework, not a degree.
-- No ranks, distinctions or academic achievements (none claimed).
+- Additional qualification: PG Diploma in Applied Data Science with Deep Learning,
+  Cranes Varsity (six months, December 2024 – June 2025, graded B+).
+  Modules: RDBMS, Python, Power BI, Exploratory Data Analysis.
+  A postgraduate diploma, not a degree and not a professional certification.
+- No ranks, distinctions or academic achievements beyond the B+ grade above.
 
 ## Experience
 - Employer: Deloitte
@@ -144,9 +146,17 @@ Four publication categories. Never present training or coursework as a certifica
   - Image: public/assets/certificates/forage-british-airways-data-science.png
 
 ### 4. Additional Learning and Coursework
-- **Data Science with Deep Learning** — Cranes Varsity
+- **PG Diploma in Applied Data Science with Deep Learning** — Cranes Varsity
+  - Name on certificate: Mohammed Danish Y
+  - Duration: 6 months, December 2024 to June 2025
+  - Grade: B+
+  - Ref No: C/PD/035/25-26
+  - Reg No: R202412096728541
+  - Signed by Arpita Mitra (Vice President) and Harsha G H (Program Manager)
   - Coursework: RDBMS, Python, Power BI, Exploratory Data Analysis
-  - Not a certification. No document supplied yet.
+  - A postgraduate diploma, not a professional certification. Listed under Additional
+    Learning so it is never confused with vendor or professional credentials.
+  - Image: public/assets/certificates/cranes-varsity-pg-diploma-data-science.png
 - **Data Science & Analytics** — HP LIFE (HP Foundation)
   - Certificate of Completion, presented 16 June 2025
   - Name on certificate: Danish Y
